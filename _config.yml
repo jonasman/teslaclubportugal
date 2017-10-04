@@ -1,14 +1,55 @@
 # Site settings
 title: Tesla Club Portugal
 email: joao3001@hotmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >
+  Página do Tesla Club Portugal
+
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://teslaclubportugal.com" # the base hostname & protocol for your site
-twitter_username: jonas2man
-github_username:  jonasman
+url: https://teslaclubportugal.com/ # the base hostname & protocol for your site
+git_address: https://github.com/jonasman/teslaclubportugal
+git_edit_address: https://github.com/jonasman/teslaclubportugal
+
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: paper
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: Europe/Lisbon
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true

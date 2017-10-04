@@ -1,0 +1,13 @@
+- title: Português
+  docs:
+  - home
+  - themes
+  - customization
+  - carregamento
+  - faq
+
+- title: English
+  docs:
+  - cheatsheet
+  - font-awesome
+  - bootstrap
