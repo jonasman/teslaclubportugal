@@ -14,3 +14,4 @@ Sim. <a target="_blank" href="https://www.tesla.com/pt_PT/support/incentives">In
 O carregamento em casa pode ser feito de várias maneiras.
 <a target="_blank" href="https://www.tesla.com/pt_PT/support/home-charging-installation">Carregamento em casa</a>
 
+<img class="img-responsive" src="{{site.baseurl}}/img/kva.jpg">
