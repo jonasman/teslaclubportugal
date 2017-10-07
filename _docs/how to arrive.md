@@ -1,5 +1,5 @@
 ---
-title: How to arrive to Portugal
+title: How to arrive in Portugal
 permalink: /docs/como_chegar_en/
 ---
 
