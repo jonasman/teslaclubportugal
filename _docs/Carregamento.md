@@ -44,7 +44,7 @@ Existem carregadores rápidos CHAdeMO em alguns pontos de país, estes carregado
       </div>
       <div class="caption">
         <h3>PCL</h3>
-        <p>Carregador lento. Potências até 3kW.</p>
+        <p>Carregador lento.</p>
       </div>
     </div>
   </div>
