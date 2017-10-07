@@ -4,11 +4,11 @@ permalink: /docs/carregamento_en/
 ---
 
 ## Tesla or any other EV
-<p>In Portugal you can charge using Mobi.e network or Tesla Destination charger network.</p>
-<p><a href="https://www.mobie.pt">Mobi.e</a> is the only network available in Portugal
-To charge in this network you will need to register and request a card.<br>
-The UMC can be used to charge in normal schuko 3kW plugs, red plugs at 11kW or in blue plugs up to 7.4kW.
-Type 2 is also used for public chargers for speeds up to 11kW, 16.5kW ou 22kW, depending on your car's charger.
+<p>In Portugal you can charge the car using Mobi.e network or the Tesla Destination charger network.</p>
+<p><a href="https://www.mobie.pt">Mobi.e</a> is the only network available in Portugal.
+In order to charge in this network you will need to register and request a card.<br>
+The UMC can be used to charge in the normal schuko plus at 3kW, red plugs at 11kW or in blue plugs up to 7.4kW.
+Type 2 is also used for public chargers for speeds up to 11kW, 16.5kW or 22kW, depending on your car's charger.
 There are also CHAdeMO fast chargers in some locations, with a power up to 50kW. You will need the Tesla CHAdeMO adaptor to use them.
 </p>
 
