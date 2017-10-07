@@ -4,11 +4,11 @@ permalink: /docs/carregamento/
 ---
 
 ## Tesla ou qualquer outro VE
-<p>Em Portugal os carregamentos podem ser efectuados na rede Mobi.e ou na rede Destination charger da Tesla.</p>
+<p>Em Portugal os carregamentos do carro podem ser efectuados na rede Mobi.e ou na rede Destination charger da Tesla.</p>
 <p>A rede <a href="https://www.mobie.pt">Mobi.e</a> é para já a unica rede pública em Portugal.
 Para efectuar um carregamento é necessário requisitar o cartão de utilizador.<br>
-Os carregamentos com o UMC da Tesla podem ser feitos em fichas schuko a 3kW, em fichas vermelhas a 11kW ou em  fichas azuis de 7.4kW no entanto estas são raras. Os carregamentos podem também ser feitos utilizando o cabo mennekes type2 nos postos públicos para potências máximas de 11kW, 16.5kW ou 22kW, dependendo da configuração do carro.
-Existem carregadores rápidos CHAdeMO em alguns pontos de país, estes carregadores têm uma potencia de 50kW e para serem utilizados é necessário comprar o adaptador CHAdeMO da Tesla.
+Os carregamentos com o UMC da Tesla podem ser feitos em fichas schuko a 3kW, em fichas vermelhas a 11kW ou em  fichas azuis com potência até 7.4kW. Os carregamentos podem também ser feitos utilizando o cabo mennekes type2 nos postos públicos para potências máximas de 11kW, 16.5kW ou 22kW, dependendo da configuração do carro.
+Existem carregadores rápidos CHAdeMO em alguns pontos de país, estes carregadores têm uma potencia máxima de 50kW e para serem utilizados é necessário utilizar o adaptador CHAdeMO da Tesla.
 </p>
 
 <div class="row">
