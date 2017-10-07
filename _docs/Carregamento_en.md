@@ -21,7 +21,7 @@ There are also CHAdeMO fast chargers in some locations, with a power up to 50kW.
       </div>
       <div class="caption">
         <h3>PCR</h3>
-        <p>Fast charger CHAdeMO. Up to 50kW.</p>
+        <p>CHAdeMO fast charger. Up to 50kW.</p>
       </div>
     </div>
   </div>
@@ -33,7 +33,7 @@ There are also CHAdeMO fast chargers in some locations, with a power up to 50kW.
       </div>
       <div class="caption">
         <h3>PCN</h3>
-        <p>Normal charger red or mennekes type2. Up to 22kW.</p>
+        <p>Normal charger, red or mennekes type 2. Up to 22kW.</p>
       </div>
     </div>
   </div>
@@ -41,7 +41,7 @@ There are also CHAdeMO fast chargers in some locations, with a power up to 50kW.
    <div class="col-lg-4 col-sm-6">
     <div class="thumbnail">
       <div class="image">
-        <a href="#cosmo/"><img class="img-responsive" src="https://1.bp.blogspot.com/-B4Ur7I8E5mI/TlFQIjSjLjI/AAAAAAAAHxg/7p-tKVBBumk/s1600/Mobi_e.jpg" alt="PCL"></a>
+        <a href=""><img class="img-responsive" src="https://1.bp.blogspot.com/-B4Ur7I8E5mI/TlFQIjSjLjI/AAAAAAAAHxg/7p-tKVBBumk/s1600/Mobi_e.jpg" alt="PCL"></a>
       </div>
       <div class="caption">
         <h3>PCL</h3>
