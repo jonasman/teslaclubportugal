@@ -1,5 +1,5 @@
 ---
-title: Como chegar a Portugal
+title: Como chegar ou sair a Portugal
 permalink: /docs/como_chegar/
 ---
 
@@ -8,7 +8,7 @@ O Supercharger mais perto de Portugal neste momento é o de <a target="_blank" h
 
 <img src="{{site.baseurl}}/img/tordesillassupercharger.png">
 
-### Como chegar a Portugal de Tesla?
+### Como chegar ou sair de Portugal de Tesla?
 
 <img src="{{site.baseurl}}/img/como_chegar.png">
 
