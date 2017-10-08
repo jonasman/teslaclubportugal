@@ -27,6 +27,16 @@ layout: default
     </div>
 
     <hr>
+
+    <H3>Últimos blog posts</H3>
+    <ul class="index">
+        {% for post in site.posts limit:3 %}
+        <div class="panel panel-default">
+            <div class="panel-heading"><a href="{{ post.url }}">{{ post.title }}</a></div>
+            <div class="panel-body">{{ post.excerpt }}</div>
+        </div>
+        {% endfor %}
+    </ul>
 <!--
     <div class="row">
         <div class="col-sm-4">

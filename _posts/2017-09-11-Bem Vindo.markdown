@@ -2,8 +2,10 @@
 layout: post
 title:  "Bem vindos ao Tesla Club Portugal"
 author: João Nunes
+excerpt_separator: <!--more-->
 ---
-Bem vindos ao Tesla Club Portugal
-
 O website do club irá conter informações úteis, como carregamento em Portugal e rotas para se chegar às principais cidades do país, diários de bordo e secção em inglês para estrangeiros que estejam de visita a Portugal.
-<img src="{{ site.baseurl }}/img/banner.jpg" class="fit image">
+
+<!--more-->
+![ ]({{ site.baseurl }}/img/banner.jpg " ")
+
