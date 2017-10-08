@@ -1,5 +1,5 @@
 ---
-title: Como chegar ou sair a Portugal
+title: Como chegar ou sair de Portugal
 permalink: /docs/como_chegar/
 ---
 

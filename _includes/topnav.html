@@ -15,15 +15,23 @@
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='docs' %} class="active" {% endif %}><a data-toggle="dropdown" href="#">Info <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="{{ "/docs/carregamento/" | prepend: site.baseurl }}">Carregamento</a></li>
-                        <li><a href="{{ "/docs/faq/" | prepend: site.baseurl }}">FAQ</a></li>
-                        <li><a href="{{ "/docs/como_chegar/" | prepend: site.baseurl }}">Como chegar ou sair de Portugal</a></li>
+                        
+                        {% for item in site.data.docs[0].docs %}
+                        {% assign item_url = item | prepend:"/docs/" | append:"/" %}
+                         {% assign p = site.docs | where:"url", item_url | first %}
+                        <li><a href="{{ item_url }}">{{ p.title }}</a></li>
+                        {% endfor %}
+                        
                     </ul>
                 </li>
                 <li class="dropdown" {% if page.sectionid=='en' %} {% endif %}><a data-toggle="dropdown" href="#">English <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="{{ "/docs/carregamento_en/" | prepend: site.baseurl }}">Charging</a></li>
-                        <li><a href="{{ "/docs/como_chegar_en/" | prepend: site.baseurl }}">How to arrive in Portugal</a></li>
+
+                     {% for item in site.data.docs[1].docs %}
+                        {% assign item_url = item | prepend:"/docs/" | append:"/" %}
+                         {% assign p = site.docs | where:"url", item_url | first %}
+                        <li><a href="{{ item_url }}">{{ p.title }}</a></li>
+                        {% endfor %}
                     </ul>
                 </li>
                 <li {% if page.sectionid=='blog' %} class="active" {% endif %}><a href="{{ site.posts.first.url | prepend: site.baseurl }}">Blog</a></li>
