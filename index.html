@@ -21,9 +21,9 @@ layout: default
                 A Tesla tem três <a target="_blank" href="https://www.tesla.com/pt_PT/findus#/bounds/65,55,34,-11,d?search=supercharger&name=Europe">Superchargers</a> planeados para 2017 em Portugal e quatro para 2018.</p>
             </blockquote>
         </div>
-        <div class="col-md-6 text-center">
+       <!-- <div class="col-md-6 text-center">
             <img src="img/Tesla_Motors_Logo.png" alt="" class="img-responsive">
-        </div>
+        </div>-->
     </div>
 
     <hr>
@@ -32,8 +32,9 @@ layout: default
     <ul class="index">
         {% for post in site.posts limit:3 %}
         <div class="panel panel-default">
-            <div class="panel-heading"><a href="{{ post.url }}">{{ post.title }}</a></div>
-            <div class="panel-body">{{ post.excerpt }}</div>
+            <div class="panel-heading">{{ post.title }}</div>
+            <div class="panel-body">{{ post.excerpt }}
+            <a class="btn btn-primary btn-sm" href="{{ post.url }}" role="button">Ler mais</a></div> 
         </div>
         {% endfor %}
     </ul>
