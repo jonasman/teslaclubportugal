@@ -7,7 +7,7 @@ exemplo:
 ```2017-09-11-O meu blogpost.md```
 
 
-As imagens devem ser inluidas na pasta ```img```
+As imagens devem ser incluídas na pasta ```img```
 
 ## Adicionar documentação
 Para criar uma página de documentação é preciso adicionar um ficheiro à pasta ```_docs```
@@ -17,4 +17,4 @@ exemplo:
 
 é necessário adicionar este doc ao menu do lado esquerdo no ficheiro ```docs.yml```
 
-As imagens devem ser inluidas na pasta ```img```
+As imagens devem ser incluídas na pasta ```img```
