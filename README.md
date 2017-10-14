@@ -18,3 +18,19 @@ exemplo:
 é necessário adicionar este doc ao menu do lado esquerdo no ficheiro ```docs.yml```
 
 As imagens devem ser incluídas na pasta ```img```
+
+
+# Jekyll
+O site utiliza Jekyll para gerar as páginas.
+
+## Instalção
+```sudo gem install jekyll```
+
+## Correr o servidor localmente
+```git clone https://github.com/jonasman/teslaclubportugal.git```
+
+```cd teslaclubportugal```
+
+```jekyll serve```
+
+```open http://localhost:4000```
