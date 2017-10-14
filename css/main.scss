@@ -39,14 +39,26 @@ body {
   }
 }
 
+.title-container {
+  margin-right: auto;
+  margin-left: 0;
+  padding-left: 0px;
+  padding-right: 15px;
+}
 
 .header-container {
   background-color: black;
   background: url('../img/bg.jpg') no-repeat 50% 0;
   color: #fff;
+  padding: 7em 0;
 
   h1 {
     color: #fff;
+    padding: 10px;
+    padding-left: 1em;
+    color: #fff;
+    background: rgba(0, 0, 0, .5);
+    width: 750px;
   }
   // background-attachment: fixed;
   background-size: cover;
