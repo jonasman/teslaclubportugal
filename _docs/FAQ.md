@@ -3,11 +3,11 @@ title: FAQ
 permalink: /docs/faq/
 ---
 
-### Que fichas vêm incluidas com o carro?
-Na compra de um Tesla vêm incluidos o carregador de parede Schuko, adaptador vermelho e cabo type2.
+### Que fichas vêm incluídas com o carro?
+Na compra de um Tesla vêm incluídos o carregador de parede Schuko, adaptador vermelho e cabo type2.
 <a target="_blank" href="https://www.tesla.com/pt_PT/support/home-charging-installation">Carregadores</a>
 
-### Existem Incentivos na compra de um Tesla?
+### Existem incentivos na compra de um Tesla?
 Sim. <a target="_blank" href="https://www.tesla.com/pt_PT/support/incentives">Incentivos</a>
 
 ### Carregamento em casa?
