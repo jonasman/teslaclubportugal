@@ -23,7 +23,7 @@ As imagens devem ser incluídas na pasta ```img```
 # Jekyll
 O site utiliza Jekyll para gerar as páginas.
 
-## Instalção
+## Instalação
 ```sudo gem install jekyll```
 
 ## Correr o servidor localmente
