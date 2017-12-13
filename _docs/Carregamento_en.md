@@ -3,7 +3,7 @@ title: Charging
 permalink: /docs/carregamento_en/
 ---
 
-## Tesla or any other EV
+### Tesla or any other EV
 <p>In Portugal you can charge the car using Mobi.e network or the Tesla Destination charger network.</p>
 <p><a href="https://www.mobie.pt">Mobi.e</a> is the only network available in Portugal.
 In order to charge in this network you will need to register and request a card.<br>
