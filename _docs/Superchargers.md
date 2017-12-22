@@ -8,7 +8,7 @@ Os Superchargers permitem carregar os model S e X a uma potencia máxima de 120k
 
 ### Como obter a maior velocidade de carregamento
 
-1. A potencia entre Superchargers é partilhada pelos carregadores dois a dois. O carregador 1A e 1B ambos partilham 140kW de potência. Para se usufruir do máximo disponível o melhor é utilizar sempre um que tenha tanto o A como o B livres. Mesmo que chegue alguém depois, o segundo carro só recebe o excedente dos 140kW. <br>Exemplo: um carro está a carregar no carregador 1A a 100kW, chega outro carro e liga-se ao 1B, o último só tem disponível 140 - 100 = 40kW até o primeiro carro começar a reduzir a potência.
+1. A potencia entre Superchargers é partilhada pelos carregadores dois a dois. O carregador 1A e 1B ambos partilham 145kW de potência. Para se usufruir do máximo disponível o melhor é utilizar sempre um que tenha tanto o A como o B livres. Mesmo que chegue alguém depois, o segundo carro só recebe o excedente dos 145kW. <br>Exemplo: um carro está a carregar no carregador 1A a 100kW, chega outro carro e liga-se ao 1B, o último só tem disponível 145 - 100 = 45kW até o primeiro carro começar a reduzir a potência.
 2. Bateria quente. A bateria tem de estar a uma temperatura perto da ideal, entre 20…25º para se carregar à maior velocidade possível. Se a bateria está fria o melhor é conduzir alguns km para a aquecer antes de carregar. Eu recomendo carregar de noite depois de conduzir em vez de carregar de manhã depois do carro estar parado por várias horas.
 
 ### Como carregar
