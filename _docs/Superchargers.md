@@ -26,3 +26,6 @@ Quando a bateria está cheia, seja por chegar a 100% ou por chegar ao limite def
 Para os modelos S e X o carregamento é gratuito desde que comprados antes de 2017 ou comprado com um referral code antes de 2018.
 Para os restantes, a Tesla oferece 400kWh por ano. O preço para o consumo restante ainda não foi divulgado em Portugal.
 
+
+Mais info: <a target="_black" href="https://www.tesla.com/pt_PT/support/supercharging?redirect=no">Tesla Superchargers</a>
+
